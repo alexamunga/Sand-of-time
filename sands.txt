@@ -1,1 +1,3 @@
-Prince of Persia is a rigging game   
+Prince of Persia is a rigging game.
+
+No man understands its complexity.
